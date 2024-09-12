@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useContext, useEffect, useState } from "react"
 import Footer from "../components/Footer"
-import Homeposts from "../components/Homeposts"
+import Homeposts from "../components/HomePosts"
 import Navbar from "../components/Navbar"
 import axios from "axios"
 import { URL } from "../url"

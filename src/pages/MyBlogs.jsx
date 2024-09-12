@@ -7,7 +7,7 @@ import { UserContext } from "../context/UserContext"
 import axios from "axios"
 import { URL } from "../url"
 import Loader from "../components/Loader"
-import Homeposts from "../components/Homeposts"
+import Homeposts from "../components/HomePosts"
 
 
 const MyBlogs = () => {
